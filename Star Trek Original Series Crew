@@ -1,0 +1,43 @@
+<style>
+h1{
+text-align:center;
+color: #080C4C;
+}
+h2{
+text-align:center;
+color: #080C4C;
+font-weight:bold;
+
+}
+p{
+color: #080C4C;
+text-align:center;
+}
+li {
+text-align:center;
+}
+
+</style>
+
+
+<body>
+
+<h2>Don't Turn Around........</h2>
+<h1>It's the Crew in Star Trek The Original Series!!</h1>
+<p>From the unemotional Mr. Spock to the Little Russian Boy Mr. Chekov,
+the crew of the Original Series will live forever.</p>
+<img src="http://www.calendars.com/img/p/orig/201700000512.jpg" width="300px"
+height="300px">
+
+
+</body>
+
+<nav>
+<ul>
+<li><strong>Home</strong></li>
+<li><a href="file:///C:/Users/Owner/Dropbox/Homeschool-ijc/2Imani/Computer%20Mentors/HTML/Mr.Chekov.html">Pavel Chekov</a></li>
+<li><a href="file:///C:/Users/Owner/Dropbox/Homeschool-ijc/2Imani/Computer%20Mentors/HTML/CaptainKirk.html">Captain Kirk</a></li>
+<li><a href="file:///C:/Users/Owner/Dropbox/Homeschool-ijc/2Imani/Computer%20Mentors/HTML/Mr.Spock.html">Mr. Spock</a></li>
+<li><a href="file:///C:/Users/Owner/Dropbox/Homeschool-ijc/2Imani/Computer%20Mentors/HTML/DrMcCoy.html">Dr. McCoy</a></li>
+</ul>
+</nav>
